@@ -1,2 +1,2 @@
-# ig
+# IG
 all about instagram.
